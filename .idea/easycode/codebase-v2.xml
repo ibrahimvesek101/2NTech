@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/test/java/pages/NavbarPage.java;/Users/ibrahimvesek/IdeaProjects/2NTech_TestFramework/src/test/java/tests/NavbarTest.java;/Users/ibrahimvesek/IdeaProjects/2NTech_TestFramework/src/test/java/utils/ConfigurationReader.java;/Users/ibrahimvesek/IdeaProjects/2NTech_TestFramework/src/test/java/utils/Driver.java;/Users/ibrahimvesek/IdeaProjects/2NTech_TestFramework/src/test/java/utils/ReusableMethods.java;/Users/ibrahimvesek/IdeaProjects/2NTech_TestFramework/pom.xml;/Users/ibrahimvesek/IdeaProjects/2NTech_TestFramework/testng.xml" />
+  </component>
+</project>
