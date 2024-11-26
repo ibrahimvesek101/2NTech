@@ -95,4 +95,5 @@ public class FormPage {
 
         Assert.assertEquals("Form Başarı ile gönderildi. Katıldığınız için teşekkür ederiz.", verifyText.getText());
     }
+
 }
